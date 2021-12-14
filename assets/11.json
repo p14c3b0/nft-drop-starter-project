@@ -1,0 +1,41 @@
+{
+  "name": "OhBoy #11",
+  "symbol": "YC",
+  "description": "Remember to replace this description",
+  "seller_fee_basis_points": 250,
+  "image": "image.png",
+  "edition": 11,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cyan"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Green"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "GVaviZDiqcytrmUvKarCWLRccMjY7JjJUkpFumRP8ioj",
+        "share": 100
+      }
+    ]
+  }
+}

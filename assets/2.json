@@ -1,0 +1,41 @@
+{
+  "name": "OhBoy #2",
+  "symbol": "YC",
+  "description": "Remember to replace this description",
+  "seller_fee_basis_points": 250,
+  "image": "image.png",
+  "edition": 2,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Black"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "GVaviZDiqcytrmUvKarCWLRccMjY7JjJUkpFumRP8ioj",
+        "share": 100
+      }
+    ]
+  }
+}
